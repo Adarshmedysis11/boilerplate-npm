@@ -1,6 +1,6 @@
 {
-	"author": "AdarshMedisys",
 	"name": "fcc-learn-npm-package-json",
+	"author": "AdarshMedisys",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
